@@ -1,2 +1,1 @@
-// Written by Rulebook (Settings > ONLINE > Export web page…) with your Supabase project's address and anon key.
-window.RULEBOOK = { url: "", key: "" };
+window.RULEBOOK = { url: "https://zfifpjzmjzerpekcrstl.supabase.co", key: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpmaWZwanptanplcnBla2Nyc3RsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI0NjAyODYsImV4cCI6MjEwODAzNjI4Nn0.6ahKkiyxhJIXsuTsZEJQrVatF_Z_EFWE8_fCOeD5xVk" };
